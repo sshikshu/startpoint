@@ -1,5 +1,5 @@
 # Startpoint
 
-starter for a typescript microservice
-nats + pino
+starter for a typescript microservice  
+nats + pino  
 testing - jest
